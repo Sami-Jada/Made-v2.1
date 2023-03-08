@@ -1,0 +1,4 @@
+Working User authentication
+Registration adds user information to the database and the login form can authenticate whether the information entered is an existing user or not. 
+Next to implement the navigation and navigation bars using React Router DOM. Currently many issues with the CSS of the script and the link buttons
+on the register and login pages do not work. 
